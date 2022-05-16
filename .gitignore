@@ -1,0 +1,8 @@
+# CMakeFile
+*cmake-build-debug/
+
+# idea IDE
+*.idea/
+
+*.o
+main
